@@ -28,7 +28,7 @@ Le programme comprend 2 constructeurs dont 1 par défaut. Le constructeur par pa
   Affiche dans la console les octets binaires obtenus.
   - Decimal_Affiche() :
   Affiche dans la console les nombres obtenus via la conversion des octets binaires.
-  Hist_Affiche(int* histogramme) :
+  - Hist_Affiche(int* histogramme) :
   Affiche dans la console l'histogramme des valeurs obtenues précédemment.
 
 
