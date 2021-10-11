@@ -8,3 +8,6 @@ Note : il se peut que le code comporte des erreurs.
 Codé par William ISABELLE.
 Ce programme a été réalisé dans le cadre de ma première année de prépa intégrée
 à Polytech Orléans.
+
+
+*Utilisation :* 
