@@ -10,7 +10,7 @@ Ce programme a été réalisé dans le cadre de ma première année de prépa in
 à Polytech Orléans.
 
 
-*Description :
+Description :
 
 - Constructeurs : 
 Le programme comprend 2 constructeurs dont 1 par défaut. Le constructeur par paramètres prend respectivememt comme paramètres la hauteur et la largeur de l'image que l'on souhaite générer aléatoirement.
@@ -30,10 +30,3 @@ Le programme comprend 2 constructeurs dont 1 par défaut. Le constructeur par pa
   Affiche dans la console les nombres obtenus via la conversion des octets binaires.
   - Hist_Affiche(int* histogramme) :
   Affiche dans la console l'histogramme des valeurs obtenues précédemment.
-
-
-
-
-
-
-* 
